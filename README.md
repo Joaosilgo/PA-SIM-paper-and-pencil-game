@@ -7,8 +7,8 @@ Graph-based logic game, which consists of several game modes. Each game mode con
 
 ## Utilizadores Password:
 
-### Joao -> joao
-### Daniel daniel
+### Joao   ->   joao
+### Daniel ->   daniel
 ![GitHub Logo](/src/javafxMenus/player_vs_player.PNG)
 
 
